@@ -1,3 +1,6 @@
+import pygame
+
+
 # Helper Functions---------------
 def pause():
   input()  
